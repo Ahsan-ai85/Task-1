@@ -5,7 +5,7 @@ A static frontend clone of the Internee.pk website was deployed on a cloud serve
 and made accessible via a web browser.
 
 ## Tech Stack
-- HTML, CSS, JavaScript
+- HTML and CSS
 - Apache2 Web Server
 - AWS EC2 (Ubuntu)
 
